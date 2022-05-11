@@ -1,0 +1,6 @@
+apple  100000
+samsung 500000
+1plus   25000
+iqooo	19000
+mi      15000
+vivo    15000

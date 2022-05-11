@@ -1,0 +1,6 @@
+skoda       120000
+brezza      900000
+scripio     280000
+innova      250000
+zetta       150000
+volkswogan  600000
